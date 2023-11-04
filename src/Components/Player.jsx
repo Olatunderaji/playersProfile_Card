@@ -6,7 +6,7 @@ import './Player.css'
 const Player = ({playerName, image, logo, team, nationality, age, jerseyNumber}) => {
   return (
     <div>
-         <Card style={{ width: '18rem' }}>
+         <Card style={{ width: '18rem', height: '25rem' }}>
       <Card.Img variant="top" src={image} />
       <Card.Img className='logo' variant="top" src={logo} />
       <Card.Body>
