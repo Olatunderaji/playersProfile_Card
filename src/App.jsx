@@ -5,7 +5,7 @@ import Player from './Components/Player'
 function App() {
   const playerProfile = [
     { 
-      image: 'https://shorturl.at/disH2',
+      image: 'https://gumlet.assettype.com/bloombergquint%2F2022-11%2F0c4440e7-c0d9-4f22-a91e-b2ba5f28d491%2Fronaldo.png?auto=format%2Ccompress&w=732',
       logo: 'https://shorturl.at/mnFV7',
       playerName: 'Cristiano Ronaldo',
       team: 'Al nassyr  FC',
